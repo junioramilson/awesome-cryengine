@@ -106,3 +106,26 @@ Feel free to contribute!
 - [Sydewinter Game](http://docs.cryengine.com/pages/viewpage.action?pageId=24283087)
 - [Using Managed Entities - Tutorial Series](http://docs.cryengine.com/pages/viewpage.action?pageId=25536731)
 - [Using CE#'s UI System - Tutorial Series](http://docs.cryengine.com/pages/viewpage.action?pageId=25536751)
+
+## Flowgraph Tutorials
+
+- [VIDEOS: Flowgraph Setups in CRYENGINE V](https://www.youtube.com/watch?v=dk4xR3LnxVU&list=PLpCgy91Y5vMshFlb2zG2A30Q_idEOGlYn)
+- [Flowgraph Editor](http://docs.cryengine.com/display/CEMANUAL/Flow+Graph+Editor)
+
+## Vehicles
+
+- [VIDEOS: Autodesk Maya Vehicle Creation](https://www.cryengine.com/tutorials/artist-series/autodesk-maya/maya-vehicle)
+- [Vehicle Creation](http://docs.cryengine.com/display/SDKDOC2/Vehicle+Creation)
+- [Vehicle Editor](http://docs.cryengine.com/display/SDKDOC2/Vehicle+Editor)
+- [Vehicle Entities](http://docs.cryengine.com/display/SDKDOC2/Vehicle+Entities)
+- [Vehicle XML Implementation Reference](http://docs.cryengine.com/display/SDKDOC2/Vehicle+XML+Implementation+Reference)
+- [Vehicle Scripting](http://docs.cryengine.com/display/SDKDOC4/Vehicle+Scripting)
+
+## Books
+
+- [CryENGINE Game Programming with C++, C#, and Lua](https://www.packtpub.com/game-development/cryengine-game-programming-c-c-and-lua)
+- [Mastering CryENGINE](https://www.packtpub.com/game-development/mastering-cryengine)
+
+## Courses
+
+- [CryENGINE SDK Game Programming Essentials](https://www.udemy.com/cryengine-sdk-game-programming-essentials/)
