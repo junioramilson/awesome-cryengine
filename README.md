@@ -6,7 +6,8 @@
 	<br>
 </h1>
 > CRYENGINE is awesome!
-Feel free to contribute!
+
+- Feel free to contribute!
 
 ## Contents
 
