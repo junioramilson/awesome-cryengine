@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img src="http://assets.crytek.com/asset-bank/servlet/display?file=53afea7353b47c373308db1bbe7ef6708fc288b90ff196f5b99f7b37094a0bd57d2f1093d7e2dbb0.jpg" alt="awesome">
+	<img src="http://assets.crytek.com/asset-bank/servlet/display?file=53afea7352b97c353c0bde1bb97ef6708fc288b90ff196f5b99f7b37094a0bd57d2f1093d7e2dbb0c802.jpg" alt="awesome">
 	<br>
 	<br>
 	<br>
